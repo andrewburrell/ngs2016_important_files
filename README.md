@@ -3,6 +3,7 @@
 Getting started with sharing files on Github tutorial: http://angus.readthedocs.io/en/2016/LC-github.html
 
 insert quippy statement here
+  Moss doens't grow on a rolling stoner
 
 1.01_StringBasics.ipynb file from Ben Langmead: http://www.langmead-lab.org/teaching-materials/
 
