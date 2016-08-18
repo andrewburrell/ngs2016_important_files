@@ -1,8 +1,10 @@
 # ngs2016_important_files
 
+![](human.jpg)
+
 Getting started with sharing files on Github tutorial: http://angus.readthedocs.io/en/2016/LC-github.html
 
-insert quippy statement here
+You do you
 
 1.01_StringBasics.ipynb file from Ben Langmead: http://www.langmead-lab.org/teaching-materials/
 
@@ -42,3 +44,5 @@ This is how to check the length of a sequence, but I can never remember it:
 
 ```
 This is a change.
+
+#I'm doing things to this file
